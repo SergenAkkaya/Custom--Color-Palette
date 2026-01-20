@@ -1,1 +1,1 @@
-Demo : https://sergenakkaya.com/RandomColorPalette/index.html
+Demo : [sergenakkaya.com.tr](https://www.sergenakkaya.com.tr/project/colorpalette/)
